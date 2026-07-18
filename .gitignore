@@ -1,0 +1,19 @@
+# Build
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Docs (not for production)
+/docs
+
+# Tools
+/.agents
+/.codex
+/.opencode
