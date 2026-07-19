@@ -25,15 +25,6 @@ Freelance full stack developer based in Jember, East Java. I build complete digi
 | About    | Tech stack (Backend, Frontend, Mobile)          |
 | Contact  | WhatsApp, email, GitHub, and contact form       |
 
-## Projects
-
-| Project       | Type    | Tech                      |
-| ------------- | ------- | ------------------------- |
-| SPMB Online   | Web App | Laravel, MySQL, Blade     |
-| Sister SDIT   | Web App | Vue.js, Laravel, MySQL    |
-| Sister Mobile | Android | Vue.js, Cordova, REST API |
-| Al-Matsurat   | Android | HTML, CSS, JavaScript     |
-
 ## Contact
 
 - WhatsApp: 085232213939
