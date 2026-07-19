@@ -212,7 +212,6 @@ img {
 
 .hero-image img {
   width: 280px;
-  height: 280px;
   object-fit: cover;
   border-radius: 50%;
   border: 3px solid var(--border);
@@ -231,6 +230,7 @@ img {
   border: none;
   cursor: pointer;
   transition: opacity 0.2s;
+  justify-content: center;
 }
 
 .btn-primary:hover {
@@ -801,6 +801,5 @@ img {
 
   .hero-image img {
     width: 320px;
-    height: 320px;
   }
 }

@@ -17,3 +17,6 @@ Thumbs.db
 /.agents
 /.codex
 /.opencode
+
+# Github
+/github
