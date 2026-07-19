@@ -2,11 +2,11 @@
 
 Portfolio website — Ikromudin Al Islami, Full Stack Developer.
 
-🌐 **Live:** [iaiapps.github.io](https://iaiapps.github.io)
+**Live:** [iaiapps.github.io](https://iaiapps.github.io)
 
 ## About
 
-Freelance full stack developer based in Jember, East Java. I build systems that get used — not just demos.
+Freelance full stack developer based in Jember, East Java. I build complete digital systems — web apps, mobile apps, APIs. Everything designed for real users, not just demos.
 
 ## Tech Stack
 
@@ -18,20 +18,19 @@ Freelance full stack developer based in Jember, East Java. I build systems that 
 
 ## Sections
 
-- **Services** — What I offer (web dev, mobile apps, API)
+- **Services** — Web development, mobile apps, API & integration
 - **Work** — Selected projects with screenshots
-- **About** — Tech stack and highlights
-- **Contact** — WhatsApp, email, and contact form
+- **About** — Tech stack (Backend, Frontend, Mobile)
+- **Contact** — WhatsApp, email, GitHub, and contact form
 
 ## Projects
 
-| Project     | Type    | Tech            |
-| ----------- | ------- | --------------- |
-| PPDB Online | Web App | Laravel, MySQL  |
-| Sister SDIT | Android | Vue.js, Cordova |
-| Web Ujian   | Web App | Laravel, PHP    |
-| Amal Yaumi  | Android | HTML, CSS, JS   |
-| Al-Matsurat | Android | HTML, CSS       |
+| Project        | Type    | Tech                      |
+| -------------- | ------- | ------------------------- |
+| SPMB Online    | Web App | Laravel, MySQL, Blade     |
+| Sister SDIT    | Web App | Vue.js, Laravel, MySQL    |
+| Sister Mobile  | Android | Vue.js, Cordova, REST API |
+| Al-Matsurat    | Android | HTML, CSS, JavaScript     |
 
 ## Run Locally
 
@@ -39,6 +38,8 @@ Just open `index.html` in a browser. No build step required.
 
 ## Contact
 
-- WhatsApp: 085232213939
+- WhatsApp: 085736807829
 - Email: ikromudin.ai@gmail.com
 - GitHub: [github.com/iaiapps](https://github.com/iaiapps)
+- Instagram: [@ikromudin.ai](https://www.instagram.com/ikromudin.ai/)
+- Threads: [@ikromudin.ai](https://www.threads.net/@ikromudin.ai)
